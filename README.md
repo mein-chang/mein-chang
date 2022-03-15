@@ -52,6 +52,11 @@
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)](https://jira.atlassian.com/)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so/)
 
+## 📊 Stats
+[![Mein's GitHub stats](https://github-readme-stats.vercel.app/api?username=mein-chang&show_icons=true&theme=aura&count_private=true)
+](https://github.com/mein-chang/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mein-chang&layout=compact&theme=aura&langs_count=9)](https://github.com/mein-chang/)
+
 ## 💬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meinmiekochang/)
